@@ -1,0 +1,8 @@
+PyInstaller==4.3
+
+auto-py-to-exe==2.6.6
+
+pytube==10.8.2
+
+PySimpleGUI==4.43.0
+
